@@ -1,0 +1,12 @@
+3173. Bitwise OR of Adjacent Elements # for loop and append
+3168. Minimum Number of Chairs in a Waiting Room  # for loop in a string
+3162. Find the Number of Good Pairs I # double for loop
+3158. Find the XOR of Numbers Which Appear Twice # dict's usage or set's usage or array's usage
+3151. Special Array I # for loop if parity
+3146. Permutation Difference between Two Strings # dict's usage and enumerate
+3136. Valid Word # for loop bool set and
+101109. Maximum Total Sum of K Selected Elements # for loop if indexing
+1874. Minimize Product Sum of Two Arrays # for loop indexing
+3120. Count the Number of Special Characters I # set
+
+

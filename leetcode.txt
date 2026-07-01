@@ -1,0 +1,52 @@
+3173. Bitwise OR of Adjacent Elements # for loop and append
+3168. Minimum Number of Chairs in a Waiting Room  # for loop in a string
+3162. Find the Number of Good Pairs I # double for loop
+3158. Find the XOR of Numbers Which Appear Twice # dict's usage or set's usage or array's usage
+3151. Special Array I # for loop if parity
+3146. Permutation Difference between Two Strings # dict's usage and enumerate
+3136. Valid Word # for loop bool set and
+101109. Maximum Total Sum of K Selected Elements # for loop if indexing
+1874. Minimize Product Sum of Two Arrays # for loop indexing
+3120. Count the Number of Special Characters I # set
+3114. Latest Time You Can Obtain After Replacing Characters # if else 
+39. Combination Sum # recursive function and for loop and backtracking M
+40. Combination Sum II # recursive function and for loop and backtracking M
+3105. Longest Strictly Increasing or Strictly Decreasing Subarray # for loop and if else
+3099. Harshad Number # while // % ==
+3095. Shortest Subarray With OR at Least K I # double for loop
+101117. Sum of Integers with Maximum Digit Range # map greedy
+3090. Maximum Length Substring With Two Occurrences # dict's usage
+3083. Existence of a Substring in a String and Its Reverse # slicing
+3079. Find the Sum of Encrypted Integers # for loop str
+3074. Apple Redistribution into Boxes # for loop
+3069. Distribute Elements Into Two Arrays I # for loop
+3065. Minimum Operations to Exceed Threshold Value I # for if  VE
+48. Rotate Image # double for loop M
+3046. Split the Array # dict's usage
+49. Group Anagrams # join and dict's usage M
+101118. Number of Elapsed Seconds Between Two Times # map and split
+3042. Count Prefix and Suffix Pairs I # double for loop and str.startswith
+3038. Maximum Number of Operations With the Same Score I # indexing 
+59. Spiral Matrix II # while loop and double for loop and indexing
+3033. Modify the Matrix # double for loop
+56. Merge Intervals # lambda sort for loop indexing append # M
+3028. Ant on the Boundary # for loop and if 
+57. Insert Interval # while loop and indexing or for loop if elif
+3024. Type of Triangle # if elif
+3019. Number of Changing Keys # indexing and for loop
+3010. Divide an Array Into Subarrays With Minimum Cost I # double for-loop and indexing
+3005. Count Elements With Maximum Frequency # dict's usage
+62. Unique Paths # dp M
+3000. Maximum Area of Longest Diagonal Rectangle # if elif 
+2996. Smallest Missing Integer Greater Than Sequential Prefix Sum #  for loop while set
+2980. Check if Bitwise OR Has Trailing Zeros # for loop
+71. Simplify Path # if elif stack.pop() M
+2974. Minimum Number Game # for loop += 2
+2970. Count the Number of Incremovable Subarrays I # triple for loop
+74. Search a 2D Matrix # Treat the 2D matrix as a 1D sorted array then bisect M 
+2965. Find Missing and Repeated Values # dict's usage
+75. Sort Colors # dict Counter while loop indexing # M
+2960. Count Tested Devices After Test Operations # for loop array indexing
+77. Combinations # dfs M
+2956. Find Common Elements Between Two Arrays # set's usage
+2951. Find the Peaks # indexing

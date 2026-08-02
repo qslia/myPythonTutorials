@@ -50,3 +50,9 @@
 77. Combinations # dfs M
 2956. Find Common Elements Between Two Arrays # set's usage
 2951. Find the Peaks # indexing
+2946. Matrix Similarity After Cyclic Shifts # indexing and %
+79. Word Search # dfs M
+
+
+
+

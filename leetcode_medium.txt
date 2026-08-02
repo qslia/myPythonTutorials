@@ -1,0 +1,11 @@
+39. Combination Sum # recursive function and for loop and backtracking M
+40. Combination Sum II # recursive function and for loop and backtracking M
+56. Merge Intervals # lambda sort for loop indexing append # M
+79. Word Search # dfs M
+77. Combinations # dfs M
+75. Sort Colors # dict Counter while loop indexing # M
+74. Search a 2D Matrix # Treat the 2D matrix as a 1D sorted array then bisect M 
+71. Simplify Path # if elif stack.pop() M
+49. Group Anagrams # join and dict's usage M
+48. Rotate Image # double for loop M
+62. Unique Paths # dp M

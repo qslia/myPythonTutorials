@@ -1,0 +1,2 @@
+https://codeforces.com/problemset/problem/2242/A # map list split if else or split 800
+https://codeforces.com/contest/2250/problem/A # math

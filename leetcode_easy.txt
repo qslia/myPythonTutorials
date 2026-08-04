@@ -42,6 +42,9 @@
 2951. Find the Peaks # indexing
 2946. Matrix Similarity After Cyclic Shifts # indexing and %
 4010. Maximize Pair Strength Using GCD # double for loop and indexing
+2942. Find Words Containing Character # string enumerate
+2937. Make Three Strings Equal # while loop
+3731. Find Missing Elements # for if 
 
 
 

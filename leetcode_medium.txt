@@ -9,3 +9,11 @@
 49. Group Anagrams # join and dict's usage M
 48. Rotate Image # double for loop M
 62. Unique Paths # dp M
+81. Search in Rotated Sorted Array II # bst
+90. Subsets II # dfs
+101124. Minimum Total Price After Applying Discounts # for loop range
+4015. Weighted Sum of a Tree # dfs tree height and depth children 
+2908. Minimum Sum of Mountain Triplets I # triple for loop and if or prefix and suffix 
+91. Decode Ways # dp
+4031. Find All Numbers Disappeared in an Array II # for loop and multiple if
+4057. Number of Intersecting Interval Pairs II # heapq

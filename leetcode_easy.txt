@@ -45,7 +45,41 @@
 2942. Find Words Containing Character # string enumerate
 2937. Make Three Strings Equal # while loop
 3731. Find Missing Elements # for if 
-
-
-
-
+2932. Maximum Strong Pair XOR I # double for loop
+2928. Distribute Candies Among Children I # math or double for loop
+2923. Find Champion I # double for and bool
+2917. Find the K-or of an Array # bit Operations double for loop bool
+2913. Subarrays Distinct Element Sum of Squares I # double for loop and set
+2903. Find Indices With Index and Value Difference I # double for loop
+2900. Longest Unequal Adjacent Groups Subsequence I # for loop
+2899. Last Visited Integers # for loop if else
+2894. Divisible and Non-divisible Sums Difference # for loop if else
+2873. Maximum Value of an Ordered Triplet I # triple for loop
+2869. Minimum Operations to Collect Elements # for loop if set
+4024. Nearest Available Drone # for loop if 
+2864. Maximum Odd Binary Number # string
+2859. Sum of Values at Indices With K Set Bits # if or >>
+455. Assign Cookies # while if
+459. Repeated Substring Pattern # for if for
+2855. Minimum Right Shifts to Sort the Array # for loops multiple judge steps
+4030. Check ASCII Palindromic # ord for loop or while loop string
+2848. Points That Intersect With Cars # Sweep Line
+2843. Count Symmetric Integers # double for loop
+2839. Check if Strings Can be Made Equal With Operations I # string manipulation
+2833. Furthest Point From Origin # if elif 
+4038. Count Integers Appearing in a Single Block # dict's usage 
+2828. Check if a String Is an Acronym of Words # string manipulation
+2824. Count Pairs Whose Sum is Less than Target # while
+2815. Max Pair Sum in an Array  # while and dict
+2810. Faulty Keyboard # reverse string
+4043. Count Rotations With Exactly K Equal Adjacent Pairs # double for loop
+2806. Account Balance After Rounded Purchase # if else
+3870. Count Commas in Range # for if
+2798. Number of Employees Who Met the Target # for if
+2788. Split Strings by Separator # double for loop
+2784. Check if Array is Good # for loop   
+4052. Cyclically Shift Rows and Columns # for loop and indexing
+2778. Sum of Squares of Special Elements  # for loop and indexing
+2769. Find the Maximum Achievable Number # purely logic
+2765. Longest Alternating Subarray # for if indexing
+2744. Find Maximum Number of String Pairs # set

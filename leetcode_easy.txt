@@ -83,3 +83,29 @@
 2769. Find the Maximum Achievable Number # purely logic
 2765. Longest Alternating Subarray # for if indexing
 2744. Find Maximum Number of String Pairs # set
+2739. Total Distance Traveled # while if
+2733. Neither Minimum nor Maximum  # sort
+2729. Check if The Number is Fascinating # string set
+2717. Semi-Ordered Permutation # index
+4070. Minimum Rotations to Dial a Number I # for loop string manipulation
+2697. Lexicographically Smallest Palindrome # while loop and indexing   
+2696. Minimum String Length After Removing Substrings # for loop and stack
+2682. Find the Losers of the Circular Game # list and indexing
+101210. Three Fibonacci Sum # while loop
+2678. Number of Senior Citizens # string manipulation slicing for loop
+2670. Find the Distinct Difference Array # prefix and suffix array
+4083. Minimum Deletions to Make Array Sharp # for loop and indexing
+2652. Sum Multiples # if
+2651. Calculate Delayed Arrival Time # remainder division 
+2644. Find the Maximum Divisibility Score # double for loop
+2639. Find the Width of Columns of a Grid # matrix 
+2614. Prime In Diagonal # matrix
+4092. Binary Digit Score # if else
+2609. Find the Longest Balanced Substring of a Binary String # for while
+2605. Form Smallest Number From Two Digit Arrays # set
+2600. K Items With the Maximum Sum # min
+4097. Minimum Value of Merged Integers # if else and for loop
+2591. Distribute Money to Maximum Children # if else and for loop
+2586. Count the Number of Vowel Strings in Range # for and set's usage
+2582. Pass the Pillow # %
+2578. Split With Minimum Sum # enumerate %

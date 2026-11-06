@@ -17,3 +17,9 @@
 91. Decode Ways # dp
 4031. Find All Numbers Disappeared in an Array II # for loop and multiple if
 4057. Number of Intersecting Interval Pairs II # heapq
+98. Validate Binary Search Tree # bst and dfs
+Minimum Rotations to Dial a Number II # prefix and suffix
+101193. Prime Subset Selection I #  cross out number
+4084. Last Visited Cell in a Directional Grid # matrix
+4093. Maximize Sum After At Most K Digit Rearrangements # sorted
+4098. Minimize the Maximum Value of GCD-Connected Array # gcd Smallest prime factor   
